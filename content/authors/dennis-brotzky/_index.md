@@ -1,8 +1,6 @@
 ---
 title: Forhatul Hasan Tamim
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+bio: "@f_h_tamim\n"
 avatar: "/images/barcode.png"
 featured: true
 social:
