@@ -1,6 +1,6 @@
 ---
 title: Forhatul Hasan Tamim
-bio: ''
+bio: "/images/barcode.png"
 avatar: ''
 social: []
 featured: true
